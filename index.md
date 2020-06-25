@@ -4,17 +4,17 @@
 - Early Concept
 <img src="early%20concept.jpg" alt="early concept">
 - First Iteration
-<img src="https://github.com/NMidkiff/NMidkiff.github.io/blob/master/first%20iteration.png" alt="first iteration">
+<img src="first%20iteration.png" alt="first iteration">
 - Late Concept
-<img src="https://github.com/NMidkiff/NMidkiff.github.io/blob/master/late%20concept.jpg" alt="late concept">
+<img src="late%20concept.jpg" alt="late concept">
 - Second Iteration
-<img src="https://github.com/NMidkiff/NMidkiff.github.io/blob/master/second%20iteration.png" alt="second iteration">
+<img src="second%20iteration.png" alt="second iteration">
 - Third Iteration
-<img src="https://github.com/NMidkiff/NMidkiff.github.io/blob/master/third%20iteration.png" alt="third iteration">
+<img src="third%20iteration.png" alt="third iteration">
 - Fourth Iteration
-<img src="https://github.com/NMidkiff/NMidkiff.github.io/blob/master/fourth%20iteration.png" alt="fourth iteration">
+<img src="fourth%20iteration.png" alt="fourth iteration">
 - Character Concept
-<img src="https://github.com/NMidkiff/NMidkiff.github.io/blob/master/character%20concept.jpg" alt="character concept">
+<img src="character%20concept.jpg" alt="character concept">
 - Most Recent Version
 <iframe src="https://player.vimeo.com/video/432514737" width="640" height="333" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
