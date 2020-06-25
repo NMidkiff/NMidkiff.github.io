@@ -4,7 +4,7 @@
 - Work in progress
 - Show some gifs showing the progression of the game
 - Visuals, Shader Graph, Concept Work, Code, UI, etc.
-![image test](https://github.com/NMidkiff/NMidkiff.github.io/blob/master/early%20concept.jpg)
+(https://github.com/NMidkiff/NMidkiff.github.io/blob/master/early%20concept.jpg)
 ### Christmas Cleanup
 - Christmas themed project to try our hand at a full project
 <iframe src="https://player.vimeo.com/video/432510783" width="640" height="319" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
