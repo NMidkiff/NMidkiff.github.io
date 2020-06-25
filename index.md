@@ -1,6 +1,7 @@
 # Noah Midkiff
-## Projects
-### Aether Runner
+
+## Aether Runner
+### Progression
 - Early Concept
 <img src="early%20concept.jpg" alt="early concept">
 - First Iteration
@@ -17,20 +18,13 @@
 <img src="character%20concept.jpg" alt="character concept">
 - Most Recent Version
 <iframe src="https://player.vimeo.com/video/432514737" width="640" height="333" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### Code and Visuals
 
-### Christmas Cleanup
+
+## Christmas Cleanup
 - Christmas themed project to try our hand at a full project
 <iframe src="https://player.vimeo.com/video/432510783" width="640" height="319" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/NMidkiff/NMidkiff.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
