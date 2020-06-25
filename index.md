@@ -17,11 +17,11 @@
 <img src="https://github.com/NMidkiff/NMidkiff.github.io/blob/master/character%20concept.jpg" alt="character concept">
 - Most Recent Version
 <iframe src="https://player.vimeo.com/video/432514737" width="640" height="333" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/432514737">Aether Runner - Alpha Demo</a> from <a href="https://vimeo.com/user118397602">Noah Midkiff</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ### Christmas Cleanup
 - Christmas themed project to try our hand at a full project
 <iframe src="https://player.vimeo.com/video/432510783" width="640" height="319" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/432510783">ChristmasCleanup - LivingRoom Scene Demo</a> from <a href="https://vimeo.com/user118397602">Noah Midkiff</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/NMidkiff/NMidkiff.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
