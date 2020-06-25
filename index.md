@@ -6,7 +6,8 @@
 - Visuals, Shader Graph, Concept Work, Code, UI, etc.
 ### Christmas Cleanup
 - Christmas themed project to try our hand at a full project
-https://vimeo.com/432510783
+<iframe src="https://player.vimeo.com/video/432510783" width="640" height="319" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/432510783">ChristmasCleanup - LivingRoom Scene Demo</a> from <a href="https://vimeo.com/user118397602">Noah Midkiff</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/NMidkiff/NMidkiff.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
