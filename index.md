@@ -2,7 +2,7 @@
 ## Projects
 ### Aether Runner
 - Early Concept
-<img src="https://github.com/NMidkiff/NMidkiff.github.io/blob/master/early%20concept.jpg" alt="early concept">
+<img src="early%20concept.jpg" alt="early concept">
 - First Iteration
 <img src="https://github.com/NMidkiff/NMidkiff.github.io/blob/master/first%20iteration.png" alt="first iteration">
 - Late Concept
