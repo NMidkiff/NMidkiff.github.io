@@ -1,6 +1,4 @@
-# Noah Midkiff
-
-## Aether Runner
+# Aether Runner
 ### Progression
 - Early Concept
 <img src="early%20concept.jpg" alt="early concept">
@@ -25,7 +23,7 @@
 - Custom Shader Graph
 <img src="Custom%20Shader%20Graph.PNG" alt="custom shader graph">
 
-## Christmas Cleanup
+# Christmas Cleanup
 - Christmas themed project to try our hand at a full project
 <iframe src="https://player.vimeo.com/video/432510783" width="640" height="319" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
