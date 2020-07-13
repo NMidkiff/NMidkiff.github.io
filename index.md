@@ -16,13 +16,15 @@
 <img src="character%20concept.jpg" alt="character concept">
 - Most Recent Pre-Launch Version
 <iframe src="https://player.vimeo.com/video/432514737" width="640" height="333" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-- Play the [game](https://zdgeier.itch.io/aetherrunner) now at itch.io :)
+- [Play the game](https://zdgeier.itch.io/aetherrunner) now at itch.io :)
+
 ### Code and Visuals
 - Procedural Background Code
 <img src="Procedural%20Background%201.PNG" alt="procedural background 1">
 <img src="Procedural%20Background%202.PNG" alt="procedural background 2">
 - Custom Shader Graph
 <img src="Custom%20Shader%20Graph.PNG" alt="custom shader graph">
+
 
 # Christmas Cleanup
 - Christmas themed project to try our hand at a full project
