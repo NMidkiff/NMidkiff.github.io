@@ -14,8 +14,9 @@
 <img src="fourth%20iteration.png" alt="fourth iteration">
 - Character Concept
 <img src="character%20concept.jpg" alt="character concept">
-- Most Recent Version
+- Most Recent Pre-Launch Version
 <iframe src="https://player.vimeo.com/video/432514737" width="640" height="333" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+- Play the [game](https://zdgeier.itch.io/aetherrunner) now at itch.io :)
 ### Code and Visuals
 - Procedural Background Code
 <img src="Procedural%20Background%201.PNG" alt="procedural background 1">
